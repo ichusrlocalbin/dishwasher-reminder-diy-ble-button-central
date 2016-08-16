@@ -1,0 +1,19 @@
+{
+  "name": "dishwasher-reminder-home-central",
+  "version": "0.0.1",
+  "private": true,
+  "author": "ichusrlocalbin <ichusrlocalbin@gmail.com>",
+  "description": "x",
+  "dependencies": {
+    "noble": "*",
+    "request": "*",
+    "milight": "*"
+  },
+  "engines": {
+    "node": "6.1.0"
+  },
+  "scripts": {
+    "node": "node dishwasher.js",
+    "shell": "bash"
+  }
+}
